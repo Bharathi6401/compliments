@@ -1,27 +1,26 @@
-body {
+body{
     font-family: 'Segoe UI', sans-serif;
     background: linear-gradient(to right, #ffe4ec, #e0f7fa);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 20px;
-    color: black;
-    font-family: sans-serif;
+    padding: 40px;
     text-align: center;
-}
 
-button {
-    padding: 10px 20px;
-    font-size: 18px;
-    border-radius: 50px;
-    border: none;
-    background-color: #ffafcc;
-    color: #fff;
+
+}
+button{
+    background-color: #ffb6c1;
     cursor: pointer;
-    margin-bottom: 20px;
+    margin-left: 10px;
+    border:none;
+    font-size: 25px;
+    border-radius: 30px;
+
+
+}
+#compliment{
+      margin-top: 30px;
+      font-size: 40px;
+      color: #444;
+      font-weight: bold;
+      
 }
 
-#compliment {
-    font-size: 24px;
-    max-width: 90%;
-}
