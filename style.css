@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(to right,#fbc2eb, #a6c1ee);
+    color: white;
+}
+button{
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  margin-left: 100px;
+}
